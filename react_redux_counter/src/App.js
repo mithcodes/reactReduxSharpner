@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Navigation />
       {isAuth ? <AfterLogin /> : <BeforeLogin />}
-
+//some fille added 
       <Counter />
     </div>
   );

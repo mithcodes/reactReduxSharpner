@@ -67,7 +67,7 @@ function App() {
 
     getCart();
   }, []);
-
+//we have store js in which file have been shared to all
   return (
     <div className="App">
       <div

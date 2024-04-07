@@ -9,6 +9,7 @@ function App() {
       <Welcome />
       <p>Learn React</p>
       <Data />
+      //we have to test data 
     </div>
   );
 }
